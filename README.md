@@ -12,5 +12,5 @@ Kenneth Lieu\
 Kevin Matero\
 Michael Nguyen
 
-___Liasio:___ Russ Abbott\
+___Liasion:___ Russ Abbott\
 ___Advisor:___ Yuqing Zhu
