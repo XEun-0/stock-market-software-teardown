@@ -1,8 +1,8 @@
 # CS4961_STIM : Stock Market Investing and Trading System
 
 ## Members
-Main Communications: Robert Reyes - Rreyes8@calstatela.edu\
-Main Documentations: Nathan Campo - ncampo18@calstatela.edu\
+___Main Communications:___ Roberto Reyes - Rreyes8@calstatela.edu\
+___Main Documentations:___ Nathan Campos - ncampo18@calstatela.edu\
 Edward (Jong Yeon Kim) Fjura\
 Maggie Yang\
 Fardeen Abir\
@@ -10,7 +10,7 @@ Anthony Edeza\
 Jose Flores De Santiago\
 Kenneth Lieu\
 Kevin Matero\
-Michael Nguyen\
+Michael Nguyen
 
-Liasion: Russ Abbott\
-Advisor: Yuqing Zhu\
+___Liasio:___ Russ Abbott\
+___Advisor:___ Yuqing Zhu
