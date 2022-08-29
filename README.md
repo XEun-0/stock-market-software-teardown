@@ -1,4 +1,4 @@
-# CS4961_STIM : Stock Market Investing and Trading System
+# CS4961_SMIT : Stock Market Investing and Trading System
 
 ## Members
 ___Main Communications:___ Roberto Reyes - Rreyes8@calstatela.edu\
